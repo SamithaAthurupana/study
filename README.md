@@ -1,2 +1,2 @@
-# study-Java
+# study
 Learning materials  
