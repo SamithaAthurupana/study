@@ -1,5 +1,5 @@
 import java.util.*;
-class InpuIntAnd10toZero{
+class InpuINTAnd10toZeroo{
 	public static void main(String[] args) {
 		Scanner input = new Scanner (System.in);
 		System.out.print("Input an integer : ");
