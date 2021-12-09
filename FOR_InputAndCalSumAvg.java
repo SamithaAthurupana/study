@@ -1,5 +1,5 @@
 import java.util.*;
-class InputAndCalSumAvg{
+class FOR_InputAndCalSumAvg{
 	public static void main(String[] args) {
 		Scanner input = new Scanner (System.in);
 			int total=0;
