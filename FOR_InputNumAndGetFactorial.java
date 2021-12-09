@@ -1,5 +1,5 @@
 import java.util.*;
-class InputNumAndGetFactorial{
+class FOR_InputNumAndGetFactorial{
 	public static void main(String[] args) {
 		Scanner input = new Scanner (System.in);
 		System.out.print("Input Number : ");
