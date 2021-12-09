@@ -1,5 +1,5 @@
 import java.util.*;
-class InputAndDisplayLowerUpper{
+class FOR_InputAndDisplayLowerUpper{
 	public static void main(String[] args) {
 		Scanner input = new Scanner (System.in);
 		System.out.print("Input Lower : ");
