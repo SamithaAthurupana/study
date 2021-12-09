@@ -8,7 +8,7 @@ class InputNumAndGetSumOfList{
 		int total=0;	
 				for (int i = 1; i <=num; i++){
 					System.out.print(i+" + ");
-					total+=num;
+					total+=i;
 
 				}
 			System.out.println("\b\b] = "+total);	
