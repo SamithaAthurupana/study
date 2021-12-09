@@ -1,5 +1,5 @@
 import java.util.*;
-class ZeroTo10inBrack{
+class FOR_ZeroTo10inBrack{
 	public static void main(String[] args) {
 			System.out.print("[");
 				for (int i = 0; i <10; i++){
